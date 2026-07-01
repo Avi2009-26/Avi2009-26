@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**Avi2009-26/Avi2009-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+I'm **Avinayh Acharya**, a student living in **Hamburg, Germany**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍🎓 About Me
+
+- 🎓 I'm currently a student at a Gymnasium in Hamburg, Germany.
+- 💻 I'm currently learning programming and web development.
+- 🌱 Every day I'm improving my coding skills.
+- 🚀 My goal is to become a Full-Stack Developer.
+
+## 🏋️ Ask Me About
+
+- Fitness & Gym 💪
+- Football
+- Cristiano Ronaldo
+- Bollywood
+
+## 📫 How to Reach Me
+
+📧 **trustmeavinavh@gmail.com**
+
+## 🌍 Languages
+
+I can speak **6 languages fluently**.
+
+## 🎉 Fun Fact
+
+
+⚡ Fun fact: My accent gets judged more often than my ability to speak 6+ languages. 😄
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
