@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-I'm **Avinayh Acharya**, a student living in **Hamburg, Germany**.
+I'm **Avinavh Acharya**, a student living in **Hamburg, Germany**.
 
 ## 👨‍🎓 About Me
 
