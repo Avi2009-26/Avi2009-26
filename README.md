@@ -8,14 +8,15 @@ I'm **Avinayh Acharya**, a student living in **Hamburg, Germany**.
 - 🎓 I'm currently a student at a Gymnasium in Hamburg, Germany.
 - 💻 I'm currently learning programming and web development.
 - 🌱 Every day I'm improving my coding skills.
-- 🚀 My goal is to become a Full-Stack Developer.
+- My dream is to be an Actor!
+- I love being with family and Friends!
 
 ## 🏋️ Ask Me About
 
 - Fitness & Gym 💪
 - Football
 - Cristiano Ronaldo
-- Bollywood
+- Movies and Tv Shows
 
 ## 📫 How to Reach Me
 
